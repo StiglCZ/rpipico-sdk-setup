@@ -3,7 +3,7 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install gcc-arm-none-eabi
 sudo apt update
-sudo apt installcmake make
+sudo apt install cmake make
 git clone https://github.com/raspberrypi/pico-sdk
 mkdir pico-sdk/build
 cd pico-sdk
